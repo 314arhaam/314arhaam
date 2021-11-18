@@ -32,6 +32,15 @@
   </a>
 </p>
 
+<h3 align="center">:video_game: Hobbies</h3>
+<p align="center">
+  <b>
+    :telescope: Astronomy
+    :video_game: Gaming
+    :books: Sci-Fi
+  </b>
+</p>
+
 <h3 align="center">:link: Connect with me</h3>
 <p align="center">
   <a align="center" href="https://www.instagram.com/3.14arham/?hl=en/">
