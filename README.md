@@ -37,8 +37,8 @@
   <a align="center" href="https://www.instagram.com/3.14arham/?hl=en/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a align="center" href="prmbas@gmail.com">
-    <img alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a align="center" href="mailto:prmbas@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
