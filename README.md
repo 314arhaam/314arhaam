@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<h3 align="center">:video_game: Hobbies</h3>
+<h3 align="center">:8ball: Hobbies</h3>
 <p align="center">
   <b>
     :telescope: Astronomy
