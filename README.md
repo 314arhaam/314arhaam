@@ -51,3 +51,8 @@
   </a>
 </p>
 
+<p align="center">
+  <a align="center">
+    <img alt="Visitor Count" src="https://profile-counter.glitch.me/314arhaam/count.svg"/>
+  </a>
+</p>
