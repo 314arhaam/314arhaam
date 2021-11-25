@@ -44,15 +44,9 @@
 <h3 align="center">:link: Connect with me</h3>
 <p align="center">
   <a align="center" href="https://www.instagram.com/3.14arham/?hl=en/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+    <img alt="Instagram" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg" width=64/>
   </a>
   <a align="center" href="mailto:prmbas@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a align="center">
-    <img alt="Visitor Count" src="https://profile-counter.glitch.me/314arhaam/count.svg"/>
+    <img alt="Gmail" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width=64/>
   </a>
 </p>
