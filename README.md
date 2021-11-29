@@ -17,6 +17,9 @@
   <a align="center" href="">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
+  <a align="center" href="">
+    <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/>
+  </a>
 </p>
 <!comment>
 <h3 align="center">:hammer_and_wrench: Frameworks & Libraries</h3>
@@ -44,9 +47,9 @@
 <h3 align="center">:link: Connect with me</h3>
 <p align="center">
   <a align="center" href="https://www.instagram.com/3.14arham/?hl=en/">
-    <img alt="Instagram" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg" width=64/>
+    <img alt="Instagram" src="https://img.shields.io/badge/3.14arham-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a align="center" href="mailto:prmbas@gmail.com">
-    <img alt="Gmail" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width=64/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
