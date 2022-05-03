@@ -39,7 +39,7 @@
 <p align="center">
   <b>
     :telescope: Astronomy
-    :video_game: PS 5
+    :video_game: PS5
     :books: Sci-Fi
   </b>
 </p>
